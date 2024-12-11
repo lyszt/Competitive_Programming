@@ -1,0 +1,3 @@
+/home/kaldwin/CLionProjects/Competitive-Programming/Template/cmake-build-debug/CMakeFiles/Competitive_Programming.dir
+/home/kaldwin/CLionProjects/Competitive-Programming/Template/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kaldwin/CLionProjects/Competitive-Programming/Template/cmake-build-debug/CMakeFiles/rebuild_cache.dir
